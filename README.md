@@ -1,7 +1,7 @@
 # 外贸社媒营销指南 / Foreign Trade Social Media Marketing Guide
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/foreign-trade-social-media-guide.svg)](https://github.com/yourusername/foreign-trade-social-media-guide/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/foreign-trade-social-media-guide.svg)](https://github.com/yourusername/foreign-trade-social-media-guide/network)
+[![GitHub stars](https://img.shields.io/github/stars/everett7623/foreign-trade-social-media-guide.svg)](https://github.com/everett7623/foreign-trade-social-media-guide/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/everett7623/foreign-trade-social-media-guide.svg)](https://github.com/everett7623/foreign-trade-social-media-guide/network)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 🌍 **专为外贸从业者打造的社交媒体营销完整指南**
@@ -86,8 +86,8 @@ A comprehensive social media marketing guide specifically designed for foreign t
 
 如果你有任何问题或建议，欢迎通过以下方式联系：
 
-- 📧 提交 [Issue](https://github.com/yourusername/foreign-trade-social-media-guide/issues)
-- 💬 发起 [Discussion](https://github.com/yourusername/foreign-trade-social-media-guide/discussions)
+- 📧 提交 [Issue](https://github.com/everett7623/foreign-trade-social-media-guide/issues)
+- 💬 发起 [Discussion](https://github.com/everett7623/foreign-trade-social-media-guide/discussions)
 - ⭐ 如果这个项目对你有帮助，请给个星星！
 
 ## 📄 许可证 / License
