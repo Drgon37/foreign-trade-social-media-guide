@@ -8,12 +8,6 @@
 
 | 平台名称 | 主要功能 | 目标市场 | iOS下载链接 | Android下载链接 | 网页版 |
 |---------|---------|---------|------------|---------------|--------|
-# 完整的外贸社交媒体平台下载指南
-
-包含iOS/Android多渠道下载链接
-
-| 平台名称 | 主要功能 | 目标市场 | iOS下载链接 | Android下载链接 | 网页版 |
-|---------|---------|---------|------------|---------------|--------|
 | **Facebook** | 社交网络、广告投放、客户互动 | 全球（除中国大陆） | [App Store](https://apps.apple.com/app/facebook/id284882215) | [Google Play](https://play.google.com/store/apps/details?id=com.facebook.katana) \| [APKPure](https://apkpure.com/facebook/com.facebook.katana) \| [官网APK](https://www.facebook.com/mobile) | [facebook.com](https://www.facebook.com) |
 | **Instagram** | 图片/视频分享、品牌展示 | 全球年轻用户群体 | [App Store](https://apps.apple.com/app/instagram/id389801252) | [Google Play](https://play.google.com/store/apps/details?id=com.instagram.android) \| [APKPure](https://apkpure.com/instagram/com.instagram.android) \| [Uptodown](https://instagram.en.uptodown.com/android) | [instagram.com](https://www.instagram.com) |
 | **LinkedIn** | 职业社交、B2B营销 | 全球商务人士 | [App Store](https://apps.apple.com/app/linkedin/id288429040) | [Google Play](https://play.google.com/store/apps/details?id=com.linkedin.android) \| [APKPure](https://apkpure.com/linkedin/com.linkedin.android) \| [APKMirror](https://www.apkmirror.com/apk/linkedin/) | [linkedin.com](https://www.linkedin.com) |
